@@ -1,4 +1,4 @@
-# Laravel Twig
+# Laravel Twig - some personalization applied from the original package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dinhquochan/laravel-twig.svg?style=flat-square)](https://packagist.org/packages/dinhquochan/laravel-twig)
 ![tests](https://github.com/dinhquochan/laravel-twig/workflows/tests/badge.svg)
